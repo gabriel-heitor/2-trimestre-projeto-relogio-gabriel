@@ -1,8 +1,8 @@
 const botoes = document.querySelectorAll(".botoes");
 const textos = document.querySelectorAll(".abas-conteudo");
 const contador = document.querySelectorAll(".contador");
-
-
+const tempoObjetivo1 = new Date ("2025-07-09");
+let tempoAtual = new Date ();
 console.log(botoes)
 
 
@@ -21,3 +21,5 @@ for(let i=0; i< botoes.length; i++){
      } 
 
 }
+
+  contadores[0]. textcontent = "Contagem Regressiva";

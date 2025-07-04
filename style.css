@@ -96,13 +96,6 @@ body {
     color: var(--verde-);
     text-transform: uppercase;
 }
-
-
-
-
-
-
-
 @media screen and (mid-width:768px){
     .botoes{
         display: flex;
